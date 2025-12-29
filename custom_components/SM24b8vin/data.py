@@ -3,7 +3,7 @@ LINK = "https://sequentmicrosystems.com/products/eight-24-bit-analog-inputs-daq-
 
 import SM24b8vin
 API = SM24b8vin.SM24b8vin
-DOMAIN = "sm24b8vin"
+DOMAIN = "SM24b8vin"
 NAME_PREFIX = "sm24b8vin"
 SM_MAP = {
     "sensor": {

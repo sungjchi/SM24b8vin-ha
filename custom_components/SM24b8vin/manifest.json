@@ -1,5 +1,5 @@
 {
-	"domain": "sm24b8vin",
+	"domain": "SM24b8vin",
 	"name": "Sequent Microsystems 24-Bit DAQ",
 	"version": "1.0.0",
 	"integration_type": "device",
