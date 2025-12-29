@@ -1,0 +1,8 @@
+{
+	"domain": "sm24b8vin",
+	"name": "Sequent Microsystems 24-Bit DAQ",
+	"version": "1.0.0",
+	"integration_type": "device",
+	"dependencies": [],
+	"requirements": ["SM24b8vin>=1.0.1"]
+}

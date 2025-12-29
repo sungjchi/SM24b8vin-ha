@@ -1,6 +1,6 @@
 # Sequent Microsystems __TEMPLATE__ Home Assistant Integration
 
-Integrate [__TEMPLATE__](__TEMPLATE_LINK__)
+Integrate [Eight 24-Bit Analog Inputs](https://sequentmicrosystems.com/products/eight-24-bit-analog-inputs-daq-8-layer-stackable-hat-for-raspberry-pi)
 seamlessly with Home Assistant, bringing all your custom functionality into the Home Assistant ecosystem for enhanced control, automation, and ease of use.
 
 
